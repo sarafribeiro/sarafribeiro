@@ -1,4 +1,4 @@
-### Hi there Welcome to the Data Wonderland! 👋
+### Welcome to the Data Wonderland! 👋
 
 <!--
 **sarafribeiro/sarafribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
